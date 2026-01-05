@@ -66,4 +66,10 @@ The dataset contains information about restaurants, including:
 - A positive relationship exists between **votes and ratings**, showing that popular restaurants often receive better ratings.
 
 ---
+**Author**
 
+**Pratiksha Mhaske – Engineer
+**
+**LinkedIn**: https://www.linkedin.com/in/pratiksha-mhaske-173643387
+
+**GitHub**: https://github.com/PratikshaMhaske
