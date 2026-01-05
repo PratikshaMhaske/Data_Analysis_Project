@@ -68,8 +68,7 @@ The dataset contains information about restaurants, including:
 ---
 **Author**
 
-**Pratiksha Mhaske – Engineer
-**
+**Pratiksha Mhaske – Engineer**
 
 **LinkedIn**: https://www.linkedin.com/in/pratiksha-mhaske-173643387
 
