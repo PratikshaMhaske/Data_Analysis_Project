@@ -30,7 +30,7 @@ The dataset contains information about restaurants, including:
 
 ---
 
-## 📊 Analysis Levels & Tasks
+## 📊 Analysis Levels and Tasks
 
 ### 🔹 Level 1: Basic Exploratory Data Analysis
 - Identified the **top 3 most common cuisines**
