@@ -4,11 +4,11 @@
 This project was completed as part of the **Data Analysis Internship at Cognifyz Technologies**.  
 The objective of the project is to perform **exploratory data analysis (EDA)** on a restaurant dataset to extract meaningful insights related to cuisines, cities, pricing, services, ratings, votes, and geographic distribution.
 
-The analysis is divided into **three levels**, each focusing on progressively advanced data analysis tasks.
+The **analysis** is divided into **three levels**, each focusing on progressively advanced data analysis tasks.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## 🛠️ **Tools & Technologies Used**
 - **Python**
 - **Google Colab**
 - **Pandas**
@@ -18,7 +18,7 @@ The analysis is divided into **three levels**, each focusing on progressively ad
 
 ---
 
-## 📂 Dataset Description
+## 📂 **Dataset Description**
 The dataset contains information about restaurants, including:
 - Restaurant Name & ID
 - City & Location details
@@ -55,7 +55,7 @@ The dataset contains information about restaurants, including:
 - Examined the relationship between **price range**, **online delivery**, and **table booking**
 - Performed **rating-based analysis** in the absence of textual reviews
 
-> ⚠️ Note: The dataset does not contain textual customer reviews. Therefore, sentiment analysis based on review text was not performed. Customer feedback was analyzed using ratings, rating text, and votes instead.
+> ⚠️ **Note**: The dataset does not contain textual customer reviews. Therefore, sentiment analysis based on review text was not performed. Customer feedback was analyzed using ratings, rating text, and votes instead.
 
 ---
 
