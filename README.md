@@ -1,6 +1,6 @@
-# 🍽️ Restaurant Data Analysis | Cognifyz Internship
+# 🍽️** Restaurant Data Analysis | Cognifyz Internship**
 
-## 📌 Project Overview
+## 📌 **Project Overview**
 This project was completed as part of the **Data Analysis Internship at Cognifyz Technologies**.  
 The objective of the project is to perform **exploratory data analysis (EDA)** on a restaurant dataset to extract meaningful insights related to cuisines, cities, pricing, services, ratings, votes, and geographic distribution.
 
@@ -32,7 +32,8 @@ The dataset contains information about restaurants, including:
 
 ## 📊 Analysis Levels and Tasks
 
-### 🔹 Level 1: Basic Exploratory Data Analysis
+### 🔹 **Level 1: Basic Exploratory Data Analysis**
+
 - Identified the **top 3 most common cuisines**
 - Performed **city-wise analysis** to find:
   - City with the highest number of restaurants  
@@ -42,14 +43,16 @@ The dataset contains information about restaurants, including:
 
 ---
 
-### 🔹 Level 2: Intermediate Analysis
+### 🔹 **Level 2: Intermediate Analysis**
+
 - Identified **most common cuisine combinations**
 - Performed **geographic analysis** using latitude and longitude
 - Analyzed **restaurant chains**, their ratings, and popularity using votes
 
 ---
 
-### 🔹 Level 3: Advanced Analysis
+### 🔹 **Level 3: Advanced Analysis**
+
 - Analyzed restaurants with the **highest and lowest votes**
 - Studied the **correlation between votes and aggregate ratings**
 - Examined the relationship between **price range**, **online delivery**, and **table booking**
