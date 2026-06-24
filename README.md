@@ -73,6 +73,6 @@ The dataset contains information about restaurants, including:
 
 **Er. Pratiksha Mhaske**
 
-**LinkedIn**: https://www.linkedin.com/in/pratiksha-mhaske-173643387
+**LinkedIn**: https://www.linkedin.com/in/pratiksha-mhaske
 
 **GitHub**: https://github.com/PratikshaMhaske
